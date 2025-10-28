@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the required texts for the course
   along with the schedule of assigned readings and films for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -16,7 +14,7 @@ Required Texts
 
 \[Morrison\] = Morrison, Toni. _Jazz_. Vintage, 2004. ISBN: 9781400076215.
 
-\[Díaz\] = Díaz, Junot. _The Brief Wondrous Life of Oscar Wao_. Riverhead Trade, 2008. ISBN: 9781594483295. \[Preview with [Google Books](http://books.google.com/books?id=qW3n_pZqKycC&printsec=frontcover)\]
+\[Díaz\] = Díaz, Junot. _The Brief Wondrous Life of Oscar Wao_. Riverhead Trade, 2008. ISBN: 9781594483295. \[Preview with {{% resource_link "08c3cf60-6603-4ae4-a1cb-cd2464d2451a" "Google Books" %}}\]
 
 \[Arundhati\] = Roy, Arundhati. _The God of Small Things_. Random House Trade Paperbacks, 2008. ISBN: 9780812979657.
 
@@ -48,7 +46,7 @@ Introduction: Does Race (Still) Matter?
  
 {{< tdclose >}}
 {{< tdopen >}}
-Khan, Farah. "[A South Asian American Female's Plea for Change](http://www.asamnews.com/2013/02/03/a-south-asian-american-females-plea-for-change-2/)," _AsAmNews_, February 3, 2013.
+Khan, Farah. "{{% resource_link "6ab0ecf3-b86b-43f0-9cda-b1400e15efa1" "A South Asian American Female's Plea for Change" %}}," _AsAmNews_, February 3, 2013.
 {{< tdclose >}}
 {{< tdopen >}}
  No films.
@@ -78,14 +76,14 @@ Race and Childhood
 {{< tdopen >}}
 
 
-Kilpatrick, Jacquelyn. ["Disney's 'politically correct' Pocahontas." (PDF)](https://silo.tips/download/disneys-politically-correct-pocahontas-by-kilpatrick-jacquelyn-cineaste-dec95-vo) _Cineaste_ 21, no. 4 (1995): 00097004.
+Kilpatrick, Jacquelyn. {{% resource_link "410044c2-6fcf-4feb-8018-b193eb93b235" "\"Disney's 'politically correct' Pocahontas.\" (PDF)" %}} _Cineaste_ 21, no. 4 (1995): 00097004.
 
 Kohl, Herbert R. _Should We Burn Babar?: Essays on Children's Literature and the Power of Stories_. New Press, 1996. ISBN: 9781565842595.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-_[Pocahontas](http://www.imdb.com/title/tt0114148/)._ Directed by Mike , and Eric Goldberg. Color, 81 min. 1995. \[16mm/DVD\] Disney.
+_{{% resource_link "b05a7ce6-7fa9-457c-b837-f093dfb0eec9" "Pocahontas" %}}._ Directed by Mike , and Eric Goldberg. Color, 81 min. 1995. \[16mm/DVD\] Disney.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +110,7 @@ _[Pocahontas](http://www.imdb.com/title/tt0114148/)._ Directed by Mike , and Eri
 Sherman, Alexie. "Introduction to Smoke Signals." In _Smoke Signals: A Screenplay_. Hyperion, 1998. ISBN: 9780786883929.
 {{< tdclose >}}
 {{< tdopen >}}
-_[Smoke Signals](http://www.imdb.com/title/tt0120321/)._ Directed by Chris Eyre. Distributed by Miramax Films. Color, 89 min. 1998. \[16mm/DVD\]
+_{{% resource_link "01c03e8a-2989-4cb3-986f-296a7b4c7453" "Smoke Signals" %}}._ Directed by Chris Eyre. Distributed by Miramax Films. Color, 89 min. 1998. \[16mm/DVD\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,22 +125,22 @@ White Rescue and Black Helplessness
 {{< tdopen >}}
 
 
-Gladwell, Malcom. "[The Courthouse Ring: Atticus Finch and the Limits of Southern Liberalism](http://www.newyorker.com/reporting/2009/08/10/090810fa_fact_gladwell)," _The New Yorker,_ August 10, 2009. Politics and Prose.
+Gladwell, Malcom. "{{% resource_link "a56c0bc0-3e3f-4686-bad6-eff848d9c515" "The Courthouse Ring: Atticus Finch and the Limits of Southern Liberalism" %}}," _The New Yorker,_ August 10, 2009. Politics and Prose.
 
-Association of Black Women Historians. ["An Open Statement to Fans of The Help."](https://aalbc.com/reviews/the_help_historical_context.html)
+Association of Black Women Historians. {{% resource_link "4e2e1499-fe89-4221-8407-59e0dd4df33e" "\"An Open Statement to Fans of The Help.\"" %}}
 
-George, Nelson. "[Still Too Good, Too Bad or Invisible](http://www.nytimes.com/2013/02/17/movies/awardsseason/black-characters-are-still-too-good-too-bad-or-invisible.html?_r=0)," _The New York Times_, February 15, 2013.
+George, Nelson. "{{% resource_link "9d39008c-ddca-4441-b682-c7e7ec4510ce" "Still Too Good, Too Bad or Invisible" %}}," _The New York Times_, February 15, 2013.
 
-Turner, Patricia A. "[Dangerous White Stereotypes](http://www.nytimes.com/2011/08/29/opinion/dangerous-white-stereotypes.html)," _The New York Times_, August 28, 2011.
+Turner, Patricia A. "{{% resource_link "0219067b-4a7b-4a6e-9d29-f8a751e321eb" "Dangerous White Stereotypes" %}}," _The New York Times_, August 28, 2011.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[_To Kill a Mockingbird_](http://www.imdb.com/title/tt0056592/). Directed by Robert Mulligan. Black and White, 129 min. 1962. \[16mm/DVD\]
+{{% resource_link "cc8f3b91-1fdc-459a-a973-ebf2a362657c" "_To Kill a Mockingbird_" %}}. Directed by Robert Mulligan. Black and White, 129 min. 1962. \[16mm/DVD\]
 
-_[The Help](http://www.imdb.com/title/tt1454029/)._ Directed by Tate Taylor. Color, 146 min. 2011. \[16mm/DVD\]
+_{{% resource_link "6e567ef1-4f32-484b-a8dc-62f880b7517d" "The Help" %}}._ Directed by Tate Taylor. Color, 146 min. 2011. \[16mm/DVD\]
 
 
 {{< tdclose >}}
@@ -173,14 +171,14 @@ That Difficult Intersection: Race and Gender
 
 \[Morrison\] Start.
 
-Coates, Ta-Nehisi. "[The Good, Racist People](http://www.nytimes.com/2013/03/07/opinion/coates-the-good-racist-people.html)," _The New York Times_, March 6, 2013.
+Coates, Ta-Nehisi. "{{% resource_link "52c1fe6b-90d3-4735-9e82-550bd6c7696a" "The Good, Racist People" %}}," _The New York Times_, March 6, 2013.
 
-D'Angelo, Raymond, and Lolita Buckner Inniss. "[Shopping While Black: Racism in Everyday Life,](http://www.nytimes.com/2013/03/11/opinion/shopping-while-black-racism-in-everyday-life.html)" _The New York Times_, March 10, 2013. (Letters to the Editor)
+D'Angelo, Raymond, and Lolita Buckner Inniss. "{{% resource_link "f48bd935-cbad-48e2-a3f7-79ddcae244e5" "Shopping While Black: Racism in Everyday Life," %}}" _The New York Times_, March 10, 2013. (Letters to the Editor)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-_[Precious](http://www.imdb.com/title/tt0929632/)._ Directed by Lee Daniels_._ Color, 110 min. 2009. \[16mm/DVD\]
+_{{% resource_link "5cf99acf-fb36-4c5d-89a4-858634940b0e" "Precious" %}}._ Directed by Lee Daniels_._ Color, 110 min. 2009. \[16mm/DVD\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +218,7 @@ Writing as Improv
  No readings.
 {{< tdclose >}}
 {{< tdopen >}}
-_[The Bronze Screen: 100 Years of the Latino Image in American Cinema](http://www.imdb.com/title/tt0338817/)._ Directed by Nancy De Los Santos, Alberto Domínguez, et al. Black and White | Color, 90 min. 2002. \[16mm/DVD\]
+_{{% resource_link "350b5c7f-cb00-4cde-9807-5b3761e92f1c" "The Bronze Screen: 100 Years of the Latino Image in American Cinema" %}}._ Directed by Nancy De Los Santos, Alberto Domínguez, et al. Black and White | Color, 90 min. 2002. \[16mm/DVD\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +234,7 @@ Entre Familia/Switching Codes and Interpreting Cultural Tropes
  No readings.
 {{< tdclose >}}
 {{< tdopen >}}
-_[Real Women Have Curves](http://www.imdb.com/title/tt0296166/)._ Directed by Patricia Cardoso. Color, 90 min. 2002. \[16mm/DVD\]
+_{{% resource_link "3a264cb9-f9d7-4e45-945e-b6b9216d627a" "Real Women Have Curves" %}}._ Directed by Patricia Cardoso. Color, 90 min. 2002. \[16mm/DVD\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -293,12 +291,12 @@ Longing and Belonging
 
 \[Díaz\] pp. 201–end.
 
-Wroe, Nicholas. "[Junot Díaz: A Life in Books](http://www.theguardian.com/books/2012/aug/31/life-in-books-junot-diaz)," _The Guardian_, August 31, 2012.
+Wroe, Nicholas. "{{% resource_link "1be28628-7372-4fd2-84a6-806d4b22d8d0" "Junot Díaz: A Life in Books" %}}," _The Guardian_, August 31, 2012.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Artpopulus. "Tracey Moffatt Night Cries: A Rural Tragedy (1989) 2." August 1, 2008. Youtube. Accessed November 15, 2013. [https://www.youtube.com/watch?v=xqdK7gryXp0&list=PL4367200E14BF8DEF](https://www.youtube.com/watch?v=xqdK7gryXp0&list=PL4367200E14BF8DEF)
+Artpopulus. "Tracey Moffatt Night Cries: A Rural Tragedy (1989) 2." August 1, 2008. Youtube. Accessed November 15, 2013. {{% resource_link "1ff7f8a8-8dc5-43c3-ad8c-a767a1b1abc2" "https://www.youtube.com/watch?v=xqdK7gryXp0&list=PL4367200E14BF8DEF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +308,7 @@ Artpopulus. "Tracey Moffatt Night Cries: A Rural Tragedy (1989) 2." August 1, 20
  No readings.
 {{< tdclose >}}
 {{< tdopen >}}
-[_Rabbit-Proof Fence_](http://www.imdb.com/title/tt0252444/). Directed by Phillip Noyce. Color, 94 min. 2002\. \[16mm/DVD\]
+{{% resource_link "c57e52de-e2ac-4e72-8715-cc67582f24e7" "_Rabbit-Proof Fence_" %}}. Directed by Phillip Noyce. Color, 94 min. 2002\. \[16mm/DVD\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -346,7 +344,7 @@ Spivak, Gayatri Chakravorty. "Can the Subaltern Speak?" In _Marxism and the Inte
 
 \[Arundhati\] Chapters 5–11.
 
-Chakraverty, Devasmita. "[Wrong Picture on the Right Page](http://www.the-nri.com/life/comment/wrong-picture-on-the-right-page)," _NRI Life_, April 4, 2012.
+Chakraverty, Devasmita. "{{% resource_link "560da04a-fe0d-4709-baea-a68ff4cf994d" "Wrong Picture on the Right Page" %}}," _NRI Life_, April 4, 2012.
 
 
 {{< tdclose >}}
@@ -363,7 +361,7 @@ Chakraverty, Devasmita. "[Wrong Picture on the Right Page](http://www.the-nri.co
 \[Arundhati\] Chapters 12–21.
 {{< tdclose >}}
 {{< tdopen >}}
-Listen to: The Rolling Stones. "Ruby Tuesday." July 17, 2012. Youtube. Accessed December 13, 2013. [http://www.youtube.com/watch?v=eYx\_NfnoHL8](http://www.youtube.com/watch?v=eYx_NfnoHL8)
+Listen to: The Rolling Stones. "Ruby Tuesday." July 17, 2012. Youtube. Accessed December 13, 2013. {{% resource_link "49d1ea2a-19b4-4a93-a295-bbe1fe867a2f" "http://www.youtube.com/watch?v=eYx\_NfnoHL8" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -378,20 +376,20 @@ Popular Culture and Race
 {{< tdopen >}}
 
 
-Rivers, 3rd, Eugene F. and Jacqueline C. Rivers. "[Should Harvard Teach A Course On _The Wire_?](http://www.huffingtonpost.com/2010/10/01/harvard-wire-course_n_746896.html)" _Huff Post_, October 1, 2010.
+Rivers, 3rd, Eugene F. and Jacqueline C. Rivers. "{{% resource_link "0c75723e-2326-4358-a16b-e2da412eea45" "Should Harvard Teach A Course On _The Wire_?" %}}" _Huff Post_, October 1, 2010.
 
-Jones, Sophie. "[Women and the Wire](http://www.popmatters.com/feature/women-and-the-wire/)," _PopMatters_, August 24, 2008.
+Jones, Sophie. "{{% resource_link "71800073-b12f-415f-93c4-c6abf0624e02" "Women and the Wire" %}}," _PopMatters_, August 24, 2008.
 
-Weaver, Afaa M. "Baltimore Before The Wire: A Memoir." In _The Wire: Urban Decay and American Television._ Bloomsbury Academic, 2009. ISBN: 9780826438041. \[Preview with [Google Books](http://books.google.com/books?id=CjeOBbhPVT0C&pg=PA15#v=onepage)\]
+Weaver, Afaa M. "Baltimore Before The Wire: A Memoir." In _The Wire: Urban Decay and American Television._ Bloomsbury Academic, 2009. ISBN: 9780826438041. \[Preview with {{% resource_link "15406873-e7f9-43a7-979b-b17a3a73a2c7" "Google Books" %}}\]
 
-Brooks, Ryan. "The Narrative Production of 'Real Police." In _The Wire: Urban Decay and American Television._ Bloomsbury Academic, 2009. ISBN: 9780826438041. \[Preview with [Google Books](http://books.google.com/books?id=CjeOBbhPVT0C&printsec=frontcover)\]
+Brooks, Ryan. "The Narrative Production of 'Real Police." In _The Wire: Urban Decay and American Television._ Bloomsbury Academic, 2009. ISBN: 9780826438041. \[Preview with {{% resource_link "eb0e7252-8c52-4d9b-ac4a-7ae5ddd044ef" "Google Books" %}}\]
 
-Klein, Amanda Ann. "The Dickensian Aspect': Melodrama, Viewer Engagement, and the Socially Conscious Text." In _The Wire: Urban Decay and American Television._ Bloomsbury Academic, 2009. ISBN: 9780826438041. \[Preview with [Google Books](http://books.google.com/books?id=CjeOBbhPVT0C&printsec=frontcover)\]
+Klein, Amanda Ann. "The Dickensian Aspect': Melodrama, Viewer Engagement, and the Socially Conscious Text." In _The Wire: Urban Decay and American Television._ Bloomsbury Academic, 2009. ISBN: 9780826438041. \[Preview with {{% resource_link "eb0e7252-8c52-4d9b-ac4a-7ae5ddd044ef" "Google Books" %}}\]
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[_The Wire, "Misgivings Season 4, Episode 10_](http://www.imdb.com/title/tt0763094/). Directed by Ernest R Dickerson. Color, 60 min. 2006.
+{{% resource_link "597471f2-dfc0-4d3f-b52c-ab137044d15b" "_The Wire, \"Misgivings Season 4, Episode 10_" %}}. Directed by Ernest R Dickerson. Color, 60 min. 2006.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -400,10 +398,10 @@ Klein, Amanda Ann. "The Dickensian Aspect': Melodrama, Viewer Engagement, and th
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Kocela, Christopher. "From Columbus to Gary Cooper: Mourning the Lost White Father in the Sopranos." Chapter 8 in _Feminist Television Criticism: A Reader_. Edited by Charlotte Brunsdon and Lynn Spigel. Oxford University Press, 1997. ISBN: 9780335225446. \[Preview with [Google Books](http://books.google.com/books?id=7Wr4AAAAQBAJ&printsec=frontcover)\]
+Kocela, Christopher. "From Columbus to Gary Cooper: Mourning the Lost White Father in the Sopranos." Chapter 8 in _Feminist Television Criticism: A Reader_. Edited by Charlotte Brunsdon and Lynn Spigel. Oxford University Press, 1997. ISBN: 9780335225446. \[Preview with {{% resource_link "3c0df4be-7e9a-487a-bcbc-a0ed4d921971" "Google Books" %}}\]
 {{< tdclose >}}
 {{< tdopen >}}
-_[The Sopranos, "Christopher, Season 4, Episode 3](http://www.imdb.com/title/tt0705234/)._ Directed by Timothy Van Patten. Color, 58 min. 2002.  
+_{{% resource_link "8c4fab78-0d1e-481e-af85-37341a5519c7" "The Sopranos, \"Christopher, Season 4, Episode 3" %}}._ Directed by Timothy Van Patten. Color, 58 min. 2002.  
  
 {{< tdclose >}}
 
@@ -421,14 +419,14 @@ _[The Sopranos, "Christopher, Season 4, Episode 3](http://www.imdb.com/title/tt0
 
 Hsu, Hsuan L. "Racial Privacy, the L.A. Ensemble Film, and Paul Haggis's Crash." Touré. "The Most Racist Thing That Ever Happened…" Chapter 5 in _Who's Afraid of Post-Blackness? What It Means to Be Black Now_. Atria Books, 2012. ISBN: 9781439177563.
 
-Williams, Patricia. _The Alchemy of Race and Rights: Diaries of a Law Professor_. Harvard University Press, 1991, pp. 3–14. \[Preview with [Google Books](http://books.google.com/books?id=47MNRIA50gwC&printsec=frontcover)\]
+Williams, Patricia. _The Alchemy of Race and Rights: Diaries of a Law Professor_. Harvard University Press, 1991, pp. 3–14. \[Preview with {{% resource_link "90db7f97-4542-4995-9b4c-631456f1b746" "Google Books" %}}\]
 
-Tesfamariam, Rahiel. "[Lolo Jones, Meagan Good: Black Female Sexuality Depicted in Extremes](http://www.washingtonpost.com/blogs/therootdc/post/lolo-jones-meagan-good-black-female-sexuality-depicted-in-extremes/2012/05/30/gJQAnOM21U_blog.html)," _The Washington Post_, May 20, 2012.
+Tesfamariam, Rahiel. "{{% resource_link "1667095b-5f55-4a9e-b26e-65b8898245ca" "Lolo Jones, Meagan Good: Black Female Sexuality Depicted in Extremes" %}}," _The Washington Post_, May 20, 2012.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-_[Crash](http://www.imdb.com/title/tt0375679/)._ Directed by Paul Haggis. Color, 112 min_._ 2004. \[16mm/DVD\]
+_{{% resource_link "d9b1c878-33a3-4ba9-a41e-7ade0d1419b1" "Crash" %}}._ Directed by Paul Haggis. Color, 112 min_._ 2004. \[16mm/DVD\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -453,7 +451,7 @@ The Bird is in Your Hand
  
 {{< tdclose >}}
 {{< tdopen >}}
-Morrison, Toni. "[The Bird Is In Your Hand](http://www.nobelprize.org/nobel_prizes/literature/laureates/1993/morrison-lecture.html)."
+Morrison, Toni. "{{% resource_link "9c3f9f81-f713-469a-82b4-864d04d2a63a" "The Bird Is In Your Hand" %}}."
 {{< tdclose >}}
 {{< tdopen >}}
  No films.

@@ -4,8 +4,6 @@ description: This syllabus section provides the course description and informati
   on objectives, meeting times, prerequisites, readings and screenings, class participation
   and presentations, written assignments, attendance, plagiarism, grading, and the
   schedule of lecture topics and key dates for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,7 +23,7 @@ Does race still matter, as Cornel West proclaimed in his 1994 book of that title
 Course Objectives
 -----------------
 
-This course is designed to provide students with the opportunity to think and write critically and to communicate more effectively about issues involving racial identity formation and how race and ethnicity are constructed and represented in contemporary culture. In accordance with [HASS-D and CI requirements](http://shass.mit.edu/undergraduate/faqs/ci-h), students will be required to write and revise essays of varying lengths totaling a minimum of 20 pages and to present a topic of their choice in a formal class presentation.
+This course is designed to provide students with the opportunity to think and write critically and to communicate more effectively about issues involving racial identity formation and how race and ethnicity are constructed and represented in contemporary culture. In accordance with {{% resource_link "dca0eaa0-a13d-4922-b9a9-cb3170cf0005" "HASS-D and CI requirements" %}}, students will be required to write and revise essays of varying lengths totaling a minimum of 20 pages and to present a topic of their choice in a formal class presentation.
 
 Prerequsites
 ------------
@@ -55,7 +53,7 @@ Class attendance, including active participation in discussions and workshops, i
 Plagiarism
 ----------
 
-Using someone else's language or ideas without proper attribution is academically dishonest. As members of this class and the larger scholarly community, you are expected to abide by the norms of academic honesty. While collaboration is encouraged in and out of class, failing to acknowledge sources or willfully misrepresenting the work of others as your own will not be tolerated. Everything you submit must be your own work, written specifically for this class. The booklet [Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf) explains these issues in detail, and you are responsible for understanding its contents. We will discuss citing sources in class and discuss ways to acknowledge them properly. Plagiarism can result in withdrawal from the course with a grade of F, suspension, or expulsion from the Institute.
+Using someone else's language or ideas without proper attribution is academically dishonest. As members of this class and the larger scholarly community, you are expected to abide by the norms of academic honesty. While collaboration is encouraged in and out of class, failing to acknowledge sources or willfully misrepresenting the work of others as your own will not be tolerated. Everything you submit must be your own work, written specifically for this class. The booklet {{% resource_link "15a42306-12f2-4ddc-b302-241add19a2f7" "Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)" %}} explains these issues in detail, and you are responsible for understanding its contents. We will discuss citing sources in class and discuss ways to acknowledge them properly. Plagiarism can result in withdrawal from the course with a grade of F, suspension, or expulsion from the Institute.
 
 Grading
 -------
